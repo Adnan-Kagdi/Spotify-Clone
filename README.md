@@ -1,2 +1,2 @@
 # Spotify UI
-spotify User interface using HTML and CSS
+ make spotify clone using this reference
